@@ -24,7 +24,7 @@ Indie Developer in Madrid, building software since 1999.
 
 🏗️ **[Palimpalem](https://palimpalem.com)** – Website builder with 1.4M+ sites created
 
-🎈 **[allgood.click](https://allgood.click)** – An AI from 2095 analyses your life, fixes what it can and renames the rest. One button. Just for fun.
+🎈 **[allgood.click](https://allgood.click)** – An AI from 2095 analyses your life, fixes what it can and renames the rest. One button. Inspired by Huxley's *Brave New World* and Adams' *Hitchhiker's Guide*. Just for fun.
 
 ## Writing
 
