@@ -4,8 +4,6 @@ Indie Developer in Madrid, building software since 1999.
 
 ## What I build
 
-🏗️ **[Palimpalem](https://palimpalem.com)** – Website builder with 1.4M+ sites created
-
 🧾 **[Contix](https://contix.es)** – Invoicing with Verifactu for Spanish freelancers. Connect your AI assistant or use the panel.
 
 ⚖️ **[Klaro](https://klaro.legal)** – Understand contracts and official letters in plain language
@@ -24,7 +22,9 @@ Indie Developer in Madrid, building software since 1999.
 
 💼 **Custom Web Apps** – Building tailored solutions for clients since 1999
 
-🎈 **[allgood.click](https://allgood.click)** – Make everything OK. Just for fun.
+🏗️ **[Palimpalem](https://palimpalem.com)** – Website builder with 1.4M+ sites created
+
+🎈 **[allgood.click](https://allgood.click)** – An AI from 2095 analyses your life, fixes what it can and renames the rest. One button. Just for fun.
 
 ## Writing
 
