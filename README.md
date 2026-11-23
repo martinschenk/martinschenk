@@ -1,8 +1,8 @@
 # Hey, I'm Martin 👋
 
-Systems architect & full-stack developer · AI agents. Programming since 1983, own software company in Madrid since 1999.
+Full-Stack Developer · PHP/Laravel, Vue, Python/FastAPI, TypeScript · AI integration (LLM, RAG, MCP). Programming since 1983, own software company in Madrid since 1999.
 
-From COBOL to Claude.
+I build complete web applications, from database design to running them on the server. My core is PHP with Laravel (since version 5.6) and Vue; in my own products, which are in operation today, I also work with Python/FastAPI, TypeScript/Next.js and PostgreSQL. I build AI into the software you already use (LLM, RAG, MCP), and I take responsibility for keeping it running.
 
 ## What I build
 
@@ -38,13 +38,11 @@ From COBOL to Claude.
 
 📝 **[Building in Public](https://martin-schenk.es/blog/)** – One dev, many projects, built in the open with AI. Honest notes from the daily work: decisions, mistakes, and what actually moves the needle.
 
-## What I do
-Architecture · UX & interface design · Backend · Databases · Servers & operations · AI agents · MCP
-
-Complete systems from one person, from the first design to running operation. The programming language and database follow from each project, they are a tool, not a specialisation.
+## Tech stack
+PHP, Laravel, Vue.js, JavaScript, TypeScript, Next.js, React, Python, FastAPI, PostgreSQL, MySQL, REST API, Linux, Docker, Plesk, Cloudflare, Amazon Bedrock, Claude API, LLM, RAG, MCP, Claude Code, Stripe, Git
 
 ## How I work
-🤖 AI-assisted development with Claude Code: the AI writes the code, I decide and review.
+🤖 I program with Claude Code; I review, test and operate every line myself.
 
 ## Get in touch
 🌐 [martin-schenk.es](https://martin-schenk.es)
